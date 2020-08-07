@@ -1,0 +1,13 @@
+{
+  "name": "react-native-checkbox-circle",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "react-native",
+    "checkbox"
+  ],
+  "author": "ahmet hosca",
+  "license": "ISC"
+}
